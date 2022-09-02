@@ -61,13 +61,22 @@ h1 {
 
 .text3 {
 }
-
-div {
+.white {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 34%;
+  height: auto;
+  margin: 0px;
+  padding: 20px;
+  color: #926239;
+}
+.corichn {
   background-color: #926239;
+  box-sizing: border-box;
   display: inline-block;
   width: 33%;
-  height: 33%;
-  margin: 0;
+  height: auto;
+  margin: 0px;
   padding: 20px;
   color: white;
 }
